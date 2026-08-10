@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-s4lt9b.radarsatu88.cfd/sitemap.xml
